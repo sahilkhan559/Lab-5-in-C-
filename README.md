@@ -11,7 +11,7 @@ This lab demonstrates the use of arrays in C++ programming. An array stores mult
 
 ## Technologies Used
 - Dev C++
-- 
+  
 
 ## Example
 **Original Array:** `5 3 8 1 2`
