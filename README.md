@@ -10,8 +10,8 @@ This lab demonstrates the use of arrays in C++ programming. An array stores mult
 - Implement Bubble Sort to sort elements in ascending order.
 
 ## Technologies Used
-- C++
-- Visual Studio Code
+- Dev C++
+- 
 
 ## Example
 **Original Array:** `5 3 8 1 2`
